@@ -11,4 +11,4 @@
 1 can be replaced with 2~10.
 
 ### Footnote
-For more details, please refer to the file dsp_hw3.pdf.
+* For more details, please refer to the file dsp_hw3.pdf.
