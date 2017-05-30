@@ -8,7 +8,7 @@
 * Command line: make
 * Command line: ./mydisambig -text testdata/1.txt -map mapping.py -lm bigram.lm -order 2 > result2/1.txt
 
-1 can be replaced with 2~10.
+-- 1 can be replaced with 2~10.
 
 ### Footnote
 * For more details, please refer to the file dsp_hw3.pdf.
